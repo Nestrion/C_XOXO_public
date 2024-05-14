@@ -7,6 +7,13 @@ Click tiles to place marks.
 Esc - brings up the start/restart button
 There is no dedicated exit button, the only way to close the program is to press the 'x' in top right corner.
 
+## Dependencies
+- SDL
+- SDL_image
+- SDL_ttf
+## Compilation
+
+
 ## Screenshots
 ![screenshot1](images/xoxo_screen_1.png)
 
