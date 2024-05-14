@@ -9,5 +9,7 @@ There is no dedicated exit button, the only way to close the program is to press
 
 ## Screenshots
 ![screenshot1](images/xoxo_screen_1.png)
+
 ![screenshot1](images/xoxo_screen_2.png)
+
 ![screenshot1](images/xoxo_screen_3.png)
